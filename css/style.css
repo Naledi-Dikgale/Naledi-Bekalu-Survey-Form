@@ -37,7 +37,7 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url(https://media.istockphoto.com/id/889512880/photo/making-her-mark.jpg?s=612x612&w=0&k=20&c=Sa6o5vofRY_g1K8N_hvydDEICxjxEUHwrnT6WuTsCvY=);
+    url("https://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_290,w_480/uv6gexxftpdzpgczlvby.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
